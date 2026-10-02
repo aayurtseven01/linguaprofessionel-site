@@ -4,5 +4,5 @@
 3. Alan adı DNS ayarları:
    - `www` için CNAME: `KULLANICIADIN.github.io`
    - Kök alan adı (apex) için 4 A kaydı: 185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153
-4. Pages ayarında Custom domain: `www.linguaprofessionel.com` olsun, DNS yayılınca "Enforce HTTPS"i aç.
+4. Pages ayarında Custom domain: `www.linguaprofessional.com` olsun, DNS yayılınca "Enforce HTTPS"i aç.
 5. Gizlilik ve silme sayfalarındaki [köşeli] alanları doldur.
